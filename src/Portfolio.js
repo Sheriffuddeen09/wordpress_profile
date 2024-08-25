@@ -3,7 +3,7 @@ const Portfolio = () =>{
 
     return(
         <div className="bg-gray-50 w-full h-screen flex flex-col items-center justify-center mx-auto">
-             <div className="flex-row flex items-center -translate-y-16 block sm:hidden">
+             <div className="flex-row flex items-center -translate-y-12 block sm:hidden">
                 <p className=" sm:p-3 rounded-xl font-bold  p-1">Welcome to </p>
                 <p className=" sm:p-3 rounded-xl font-bold sm:text-xl text-sm p-1 ">Odukoya Sheriff Olawale </p>
                 <p className=" sm:p-3 p-1 rounded-xl font-bold ">portfolio</p>
