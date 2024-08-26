@@ -19,7 +19,7 @@ const Head = () =>{
             <div className="inline-flex gap-10">
                 <h1 className="text-3xl font-bold text-blue-700 h1">SheriffPortfolio</h1>
                 <button onClick={handleToggle} 
-                className="text-3xl block md:translate-x-72 lg:hidden relative -top-2 -right-4
+                className="text-3xl sm:hidden relative -top-2 -right-4
                  focus:outline-none">
                     &#9776;
                 </button>
