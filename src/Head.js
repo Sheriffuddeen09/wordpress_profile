@@ -23,7 +23,7 @@ const Head = () =>{
                  focus:outline-none">
                     &#9776;
                 </button>
-                <nav className="hidden lg:block">
+                <nav className="hidden sm:block">
                 <div className="inline-flex gap-8">
                 <Link to={'/'} className=''><p>Home</p>
                 <div className={`'background' ${homepage === '/' ? 'prim' : 'background'}`}></div>
@@ -35,7 +35,7 @@ const Head = () =>{
                 </nav>
             </div>
             <div>
-            <Link to={'/contact'} className='font-bold hidden lg:block'><p>Contact me</p>
+            <Link to={'/contact'} className='font-bold hidden sm:block'><p>Contact me</p>
                 <div className={`'background' ${homepage === '/contact' ? 'prima' : 'background'}`}></div>
                 </Link>
             </div>
