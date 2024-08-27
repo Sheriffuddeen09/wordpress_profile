@@ -40,7 +40,7 @@ very successful in the software engineering department
         <p>•	Javascript	</p>
         <p>•	Vue.js	</p>
         <p>•	React.js	</p>
-        <p>Next.js</p>
+        <p>•	Next.js</p>
         <p>•	Redux	</p>
         <p>•	Typescript	</p>
     </div>
