@@ -3,19 +3,20 @@ const Portfolio = () =>{
 
     return(
         <div className="bg-gray-50 w-full h-screen flex flex-col items-center justify-center mx-auto">
-             <div  className="wrapper flex-row flex items-center -translate-y-6 block sm:hidden">
-             <ul className='dynamic mt-1'>
-            <ol><main>Welcome to Odukoya Sheriff Olawale Portfolio</main></ol>
+             <div  className="wrapper flex flex-col items-center -translate-y-6 block sm:hidden">
+             <p className="text-xl font-bold">Welcome to </p>
+             <ul className='dynamic mt-1 '>
+            <ol><main>Odukoya Sheriff Olawale Portfolio</main></ol>
             </ul>
             </div>
             <div className="bg-gray-50 rounded-xl clip sm:z-10  md:-translate-y-36 h-96 p-4 mt-2">
-            <h1 className="font-bold text-blue-600 sm:text-8xl text-4xl text-center mb-6 ">
+            <h1 className="font-bold text-blue-600 sm:text-8xl text-6xl text-center mb-6 ">
                 As
             </h1>
-            <h1 className="font-bold sm:text-8xl text-4xl text-blue-600 text-center  mb-6 ">
+            <h1 className="font-bold sm:text-8xl text-6xl text-red-600 text-center  mb-6 ">
                 Frontend Developer
             </h1>
-            <h1 className="font-bold sm:text-8xl text-blue-600 text-4xl text-center">
+            <h1 className="font-bold sm:text-8xl text-green-600 text-6xl text-center">
                 Programmer
             </h1>
             <div className="flex-row flex items-center justify-center gap-4 sm:gap-10 sm:my-14 my-20">
