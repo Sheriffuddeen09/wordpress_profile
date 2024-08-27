@@ -16,7 +16,7 @@ const Portfolio = () =>{
             <h1 className="font-bold sm:text-8xl text-6xl text-red-600 text-center  mb-6 ">
                 Frontend Developer
             </h1>
-            <h1 className="font-bold sm:text-8xl text-green-600 text-6xl text-center">
+            <h1 className="font-bold sm:text-8xl text-green-600 text-5xl text-center">
                 Programmer
             </h1>
             <div className="flex-row flex items-center justify-center gap-4 sm:gap-10 sm:my-14 my-20">
