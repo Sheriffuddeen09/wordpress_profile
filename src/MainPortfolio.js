@@ -9,7 +9,7 @@ const MainPortfolio = () =>{
     return(
         <div>
             <p className='font-bold my-4 text-2xl text-center'>Project work on by Odukoya Sheriff Olawale</p>
-        <div className='p-3 sm:grid-cols-2 sm:grid grid mx-16 sm:mx-40 sm:my-6 justify-center grid-cols-1'>
+        <div className='p-3 sm:grid-cols-2 -translate-x-10 sm:translate-x-0 sm:grid grid mx-16 sm:mx-40 sm:my-6 justify-center grid-cols-1'>
             <div className='border-2 w-56 sm:w-96 sm:h-full sm:p-3 mb-4 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={indeed} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <Link>
