@@ -88,7 +88,7 @@ body{
     transform: translateY(0px);
   }
   to{
-    transform: translateY(-400px);
+    transform: translateY(-250px);
   }
 }
 @keyframes name {
@@ -97,7 +97,7 @@ body{
     transform: translateY(0px);
   }
   to{
-    transform: translateY(-400px);
+    transform: translateY(-240px);
   }
 }
 @keyframes main {
@@ -106,7 +106,7 @@ body{
     transform: translateY(0px);
   }
   to{
-    transform: translateY(-400px);
+    transform: translateY(-235px);
   }
 }
 
