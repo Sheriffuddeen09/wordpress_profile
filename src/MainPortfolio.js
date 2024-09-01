@@ -37,7 +37,7 @@ const MainPortfolio = () =>{
             </div>
             <div className='border-2 w-56 sm:w-96 mb-4 mt-4 sm:h-full sm:p-3 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={uipic} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <Link to={'https://ui-project-assessment.onrender.com/'}>
+                <Link to={'https://ui-project.onrender.com'}>
                 <button className='border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live
                 </button>
