@@ -21,7 +21,7 @@ const MainPortfolio = () =>{
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://sheriff-job-portfolio-ix2y3ihdi.vercel.app/'}>
+                <Link to={'https://vercel.com/api/toolbar/link/sheriff-job-portfolio.vercel.app'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -42,7 +42,7 @@ const MainPortfolio = () =>{
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://next-sheriff-you-tube.vercel.app/'}>
+                <Link to={'https://vercel.com/api/toolbar/link/next-sheriff-you-tube.vercel.app'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -63,7 +63,7 @@ const MainPortfolio = () =>{
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://react-redux-project-cdvvlvj0k.vercel.app/'}>
+                <Link to={'https://vercel.com/api/toolbar/link/react-redux-project-nine.vercel.app'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -83,9 +83,9 @@ const MainPortfolio = () =>{
                    GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://shipment-project-9xocyi219.vercel.app'}>
+                <Link to={'https://vercel.com/api/toolbar/link/shipment-project.vercel.app'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
-                    Live
+                    Live Link
                 </button>
                 </Link>
                 <Link to={'https://json-server-8zz0.onrender.com'}>
