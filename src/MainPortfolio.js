@@ -15,13 +15,13 @@ const MainPortfolio = () =>{
         <div className='p-3 sm:grid-cols-2 -translate-x-7 sm:translate-x-0 sm:grid grid mx-16 sm:mx-40 sm:my-6 justify-center grid-cols-1'>
             <div className='border-2 w-56 sm:w-96 sm:h-full sm:p-3 mb-4 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={indeed} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <div className='inline-flex gap-3 items-center'>                
+                <div className='flex-wrap flex gap-3 items-center'>                
                 <Link to={'https://github.com/Sheriffuddeen09/Sheriff-Job-Portfolio.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 font-bold '>
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://vercel.com/api/toolbar/link/sheriff-job-portfolio.vercel.app'}>
+                <Link to={'https://sheriff-job-portfoli-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -36,13 +36,13 @@ const MainPortfolio = () =>{
             </div>
             <div className='border-2 w-56 sm:w-96 sm:h-full sm:p-3 mb-4 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={youtube} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <div className='inline-flex gap-3 items-center'>            
+                <div className='flex-wrap flex gap-3 items-center'>            
                 <Link to={'https://github.com/Sheriffuddeen09/Next-SheriffYouTube.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 font-bold '>
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://vercel.com/api/toolbar/link/next-sheriff-you-tube.vercel.app'}>
+                <Link to={'https://next-sheriff-you-tub-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -57,13 +57,13 @@ const MainPortfolio = () =>{
             
             <div className='border-2 w-56 sm:w-96 mb-4 mt-4 sm:h-full sm:p-3 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={redux} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <div className='inline-flex gap-3 items-center'>            
+                <div className='flex-wrap flex gap-3 items-center'>            
                 <Link to={'https://github.com/Sheriffuddeen09/React-Redux-Project.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 font-bold '>
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://vercel.com/api/toolbar/link/react-redux-project-nine.vercel.app'}>
+                <Link to={'https://react-redux-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
@@ -77,13 +77,13 @@ const MainPortfolio = () =>{
             </div>
             <div className='border-2 w-56 sm:w-96 sm:h-full sm:p-3 mb-4 border-green-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={shipment} className='w-56 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <div className='inline-flex gap-3 items-center'>            
+                <div className='flex-wrap flex gap-3 items-center'>            
                 <Link to={'https://github.com/Sheriffuddeen09/Shipment-Project.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 font-bold '>
                    GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://vercel.com/api/toolbar/link/shipment-project.vercel.app'}>
+                <Link to={'https://shipment-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-20 font-bold '>
                     Live Link
                 </button>
