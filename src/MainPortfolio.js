@@ -66,7 +66,7 @@ const MainPortfolio = () =>{
                     GitHub Link
                 </button>
                 </Link>
-                <Link to={'https://react-redux-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
+                <Link to={'https://redux-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 -mt-2 sm:my-0 mb-3 font-bold '>
                     Live Link
                 </button>
