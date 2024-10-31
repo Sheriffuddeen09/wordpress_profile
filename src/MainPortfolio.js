@@ -23,12 +23,12 @@ const MainPortfolio = () =>{
                 </button>
                 </Link>
                 <Link to={'https://sheriff-job-portfoli-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Live Link
                 </button>
                 </Link>
                 <Link to={'https://github.com/Sheriffuddeen09/blog-server.git'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-28 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Api Link
                 </button>
                 </Link>
@@ -45,12 +45,12 @@ const MainPortfolio = () =>{
                 </button>
                 </Link>
                 <Link to={'https://next-sheriff-you-tube.vercel.app/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Live Link
                 </button>
                 </Link>
                 <Link to={'https://github.com/Sheriffuddeen09/next-server.git'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-28 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Api Link
                 </button>
                 </Link>
@@ -67,12 +67,12 @@ const MainPortfolio = () =>{
                 </button>
                 </Link>
                 <Link to={'https://redux-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Live Link
                 </button>
                 </Link>
                 <Link to={'https://redux-json.onrender.com'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-28 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Api Link
                 </button>
                 </Link>
@@ -88,12 +88,12 @@ const MainPortfolio = () =>{
                 </button>
                 </Link>
                 <Link to={'https://shipment-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-32 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Live Link
                 </button>
                 </Link>
                 <Link to={'https://json-server-8zz0.onrender.com'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 rounded-xl w-28 sm:w-24 -mt-2 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Api Link
                 </button>
                 </Link>
