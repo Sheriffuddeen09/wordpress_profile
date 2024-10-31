@@ -16,7 +16,7 @@ const MainPortfolio = () =>{
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={indeed} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffJob is a job site portfolio and hiring platform. access to search for jobs, posts resumes research companies and more</p>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-5 sm:mt-10'>           
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>           
                 <Link to={'https://github.com/Sheriffuddeen09/Sheriff-Job-Portfolio.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
                     GitHub Link
@@ -38,7 +38,7 @@ const MainPortfolio = () =>{
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={youtube} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffYouTube is a video site portfolio and YouTube alike method. access to search for video and watch</p>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-5 sm:mt-10'>            
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
                 <Link to={'https://github.com/Sheriffuddeen09/Next-SheriffYouTube.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
                     GitHub Link
@@ -60,7 +60,7 @@ const MainPortfolio = () =>{
             <div className='border-2 w-72 sm:w-96 mb-4 mt-4 sm:h-full sm:p-3 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={redux} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffBlog is a blog site portfolio and facebook alike method. access to posts watch video and view market</p>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-5 sm:mt-10'>            
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
                 <Link to={'https://github.com/Sheriffuddeen09/React-Redux-Project.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
                     GitHub Link
@@ -81,7 +81,7 @@ const MainPortfolio = () =>{
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={shipment} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffShipment is a shipment site portfolio and transportation platform. ideas of giving Transportation from one port to another either within the coutry or outside the country.</p>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-5 sm:mt-10'>            
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
                 <Link to={'https://github.com/Sheriffuddeen09/Shipment-Project.git'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
                    GitHub Link
