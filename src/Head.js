@@ -16,10 +16,10 @@ const Head = () =>{
         
         <header className="bg-white">
             <section className=" header pb-1 px-6 pt-6 flex justify-between items-center ">
-            <div className="flex justify-between items-center">
+            <div className="flex justify-between gap-2 items-center">
                 <h1 className="text-3xl font-bold text-blue-700 h1">SheriffPortfolio</h1>
                 <button onClick={handleToggle} 
-                className="text-3xl sm:hidden relative -top-2
+                className="text-3xl sm:hidden relative -right-2
                  focus:outline-none">
                     &#9776;
                 </button>
