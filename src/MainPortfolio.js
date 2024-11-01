@@ -57,6 +57,27 @@ const MainPortfolio = () =>{
                 </div>
             </div>
             
+            <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
+                <img alt='imagepicture' src={shipment} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
+                <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffShipment is a shipment site portfolio and transportation platform. ideas of giving Transportation from one port to another either within the coutry or outside the country.</p>
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
+                <Link to={'https://github.com/Sheriffuddeen09/Shipment-Project.git'}>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
+                   GitHub Link
+                </button>
+                </Link>
+                <Link to={'https://shipment-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                    Live Link
+                </button>
+                </Link>
+                <Link to={'https://json-server-8zz0.onrender.com'}>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                    Api Link
+                </button>
+                </Link>
+               </div>
+               
             <div className='border-2 w-72 sm:w-96 mb-4 mt-4 sm:h-full sm:p-3 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={redux} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffBlog is a blog site portfolio and facebook alike method. access to posts watch video and view market</p>
@@ -78,26 +99,6 @@ const MainPortfolio = () =>{
                 </Link>
                 </div>
             </div>
-            <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
-                <img alt='imagepicture' src={shipment} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <p className='mt-6 font-bold bg-white p-2 shadow-md rounded-xl'>SheriffShipment is a shipment site portfolio and transportation platform. ideas of giving Transportation from one port to another either within the coutry or outside the country.</p>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
-                <Link to={'https://github.com/Sheriffuddeen09/Shipment-Project.git'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-8 sm:mt-0 rounded-xl w-64 sm:w-28 sm:w-28 font-bold '>
-                   GitHub Link
-                </button>
-                </Link>
-                <Link to={'https://shipment-project-odukoya-sheriff-olawales-projects-0e5387fc.vercel.app/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-32 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
-                    Live Link
-                </button>
-                </Link>
-                <Link to={'https://json-server-8zz0.onrender.com'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
-                    Api Link
-                </button>
-                </Link>
-               </div>
             </div>
             
             <div className='border-2 w-72 sm:w-96 mb-4 mt-4 sm:h-full sm:p-3 border-blue-200 p-2 rounded-lg'>
