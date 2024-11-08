@@ -1,7 +1,7 @@
 const About = () =>{
 
     return (
-        <div className="flex flex-col justify-center px-8 py-3 mb-10 mx-auto">
+        <div className="flex flex-col text-white justify-center px-8 py-3 mb-10 mx-auto">
             <h1 className="font-bold text-5xl mb-4">About me</h1>
             <h1>My name Odukoya Sheriff Olawale am a Frontend Developer who is proficient in Html, Css(tailwind), Javascript and am proficient in javascript framework which is Vue.js, and React.js also in react framework which is Next.js and state management Redux. </h1>
             <p>•	am highly motivated and hard-working individual pursuing a professional career in the Software Engineering industry. I can set and achieve short and long-term goals; I am seeking 

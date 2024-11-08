@@ -3,7 +3,7 @@
 const Contact = () =>{
 
     return(
-        <div className="px-8 py-4">
+        <div className="px-8 py-4 text-white">
             <h1 className="font-bold text-5xl ">Contact me</h1>
             <hr className="my-5"/>
             <div className="flex flex-row justify-between">

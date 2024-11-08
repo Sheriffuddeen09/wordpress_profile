@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-  background-color: white;
+  background-color: #17191c;
 }
 :root{
   --body_background: blue;
@@ -29,6 +29,8 @@ body{
 .header{
   border: solid rgb(163, 163, 163);
   border-width: 0px 0px 1px 0px;
+  background-color: #444546;
+  background-color: #17191c;
 }
 .pri{
   background-color: rgb(34, 103, 222);
