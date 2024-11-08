@@ -16,7 +16,7 @@ const Head = () =>{
         <div>
         
         <header className="text-white">
-            <section className=" header pb-4 px-6 pt-4 flex justify-between items-center ">
+            <section className=" header pb-3 px-6 pt-2 flex justify-between items-center ">
             <div className="flex justify-between gap-52 items-center">
             <div className="flex justify-between gap-2">
                 <img src={logoshe} alt="imagelogo" className="text-white bg-white rounded-full  sm:h-10 sm:w-10 w-8 h-8" width={40} height={40} />

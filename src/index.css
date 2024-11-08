@@ -38,7 +38,7 @@ body{
   height: 3px;
   translate: -1px;
   position: relative;
-  top: 15px;
+  top: 20px;
   margin-bottom: 2px;
 }
 .prim{
@@ -47,7 +47,7 @@ body{
   height: 3px;
   translate: 0px;
   position: relative;
-  top: 15px;
+  top: 17.5px;
 }
 .prima{
   background-color: rgb(34, 103, 222);
@@ -55,7 +55,7 @@ body{
   height: 3px;
   translate: 0px;
   position: relative;
-  top: 10px;
+  top: 17.5px;
 }
 .primar{
   background-color: rgb(34, 103, 222);
@@ -63,7 +63,7 @@ body{
   height: 3px;
   translate: -1px;
   position: relative;
-  top: 15px;
+  top: 17.5px;
 }
 .welcome {
   animation: welcome 3.5s ease-in-out infinite ;
