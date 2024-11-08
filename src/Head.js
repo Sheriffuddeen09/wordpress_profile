@@ -19,7 +19,7 @@ const Head = () =>{
             <section className=" header pb-3 px-6 pt-2 flex justify-between items-center ">
             <div className="flex justify-between gap-52 items-center">
             <div className="flex justify-between gap-2">
-                <img src={logoshe} alt="imagelogo" className="text-white bg-white rounded-full  sm:h-10 sm:w-10 w-8 h-8" width={40} height={40} />
+                <img src={logoshe} alt="imagelogo" className="text-white bg-white rounded-full -translate-x-5 sm:translate-x-0  sm:h-10 sm:w-10 w-8 h-8" width={40} height={40} />
                 </div>
                 <button onClick={handleToggle} 
                 className="text-3xl sm:hidden relative -right-6
