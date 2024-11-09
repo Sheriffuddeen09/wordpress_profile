@@ -13,7 +13,7 @@ const MainPortfolio = () =>{
     return(
         <div>
             <p className='font-bold my-4 text-white text-2xl text-center'>Projects by Odukoya Sheriff Olawale</p>
-        <div className='p-3 lg:grid-cols-2 md:grid-cols-1 gap-4 text-white sm:translate-x-0 sm:grid grid mx-auto items-center  sm:mx-40 sm:my-6 justify-items-center grid-cols-1'>
+        <div className='p-3 sm:grid-cols-2 gap-4 sm:gap-7 text-white sm:translate-x-0 sm:grid grid mx-auto items-center md:mx-0  lg:mx-40 sm:my-6 justify-items-center grid-cols-1'>
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={indeed} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>SheriffJob is a job site portfolio and hiring platform. access to search for jobs, posts resumes research companies and more</p>
