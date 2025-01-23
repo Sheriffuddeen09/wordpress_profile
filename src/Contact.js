@@ -13,12 +13,12 @@ const Contact = () =>{
             <hr className="my-5" />
             <div className="flex flex-row justify-between">
             <h1 className="text-2xl">Email</h1>
-            <a href="mailto:odukoyasheriff@gmail.com"><button className="border-2 border-blue-400 p-2 rounded-xl font-bold">send mail</button></a>
+            <a href="mailto:odukoyasheriff@gmail.com"><button className="border-2 border-blue-400 p-2 rounded-xl font-bold">Send mail</button></a>
             </div> 
             <hr className="my-5" />
             <div className="flex flex-row justify-between">
             <h1 className="text-2xl">WhatsApp</h1>
-            <a href="https://wa.link/y25p0v"><button className="border-2 border-blue-400 p-2 rounded-xl font-bold">07012554154</button></a>
+            <a href="https://wa.link/y25p0v"><button className="border-2 border-blue-400 p-2 rounded-xl font-bold">Via Link</button></a>
             </div> 
             <hr className="my-5" />
             <div className="flex flex-row justify-between">
