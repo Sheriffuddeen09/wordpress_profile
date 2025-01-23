@@ -159,7 +159,7 @@ const MainPortfolio = () =>{
                 </button>
                 </Link>
                 <Link to={'https://company-json.onrender.com'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-24 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-28 sm:w-20 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Api Link
                 </button>
                 </Link>
