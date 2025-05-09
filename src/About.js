@@ -51,6 +51,7 @@ seamless user experiences.
         <p>•	React Native	</p>
         <p>•	Php	</p>
         <p>•	Sql	</p>
+        <p>•	Lavarel	</p>
         <p>•	Git/GitHub	</p>
         <p>•	WordPress 	</p>
         <p>•	Figma	</p>
