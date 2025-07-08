@@ -1,5 +1,6 @@
 import update from './image/update.png'
 import rental from './image/rental.png'
+import doctor from './image/doctor.png'
 import shortlist from './image/shortlist.png'
 import uipic from './image/ui.png'
 import { Link } from 'react-router-dom'
@@ -28,6 +29,20 @@ const MainPortfolio = () =>{
 
             </div>
 
+        <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
+                <img alt='imagepicture' src={doctor} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
+                <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>Doctor Profile website for Booking Appointment with Email OTP verification code to access date and time booking slot, with payment fee. </p><br/>
+                <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>
+                Tools: Javascript, Php and Sql</span>
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>           
+                <Link to={'https://doctorprofile.wuaze.com/'}>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                    Wordpress Link
+                </button>
+                </Link>
+                </div>
+
+            </div>
             {/* Elementor */}
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={update} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
