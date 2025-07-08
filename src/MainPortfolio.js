@@ -35,7 +35,7 @@ const MainPortfolio = () =>{
                 <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>
                 Tools: Javascript, Php and Sql</span>
                 <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>           
-                <Link to={'https://doctorprofile.wuaze.com/'}>
+                <Link to={'https://doctor-sql-1.onrender.com/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Wordpress Link
                 </button>
