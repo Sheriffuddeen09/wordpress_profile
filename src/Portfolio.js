@@ -14,7 +14,7 @@ const Portfolio = () =>{
                 As
             </h1>
             <h1 className="font-bold sm:text-8xl text-6xl text-red-600 text-center  mb-6 ">
-                Web Developer
+                Wordpress Developer
             </h1>
             <h1 className="font-bold sm:text-8xl text-green-600 text-5xl text-center">
                 Programmer
