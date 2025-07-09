@@ -28,7 +28,7 @@ const MainPortfolio = () =>{
                 </div>
 
             </div>
-
+{/*  */}
         <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={doctor} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>Doctor Profile website for Booking Appointment with Email OTP verification code to access date and time booking slot, with payment fee. </p><br/>
@@ -47,11 +47,11 @@ const MainPortfolio = () =>{
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={update} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>
-                work with the use of elementor to maintain and update the website </p><br/>
-                <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>Tools: Elementor</span>
+                website which is a Bookkeeping platform it is design as a project small business and financial record </p><br/>
+                <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>Tools: Javascript, Html, Css and Elementor</span>
                 <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
     
-                <Link to={'https://daniester.com/our-services/'}>
+                <Link to={'https://projectshortlist.wuaze.com/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Wordpress Link
                 </button>
@@ -65,7 +65,7 @@ const MainPortfolio = () =>{
                 <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>
                 Tools: Javascript, Php and Sql</span>
                 <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
-                <Link to={'https://projectshortlist.wuaze.com/'}>
+                <Link to={'https://hellobookaiproject.wuaze.com/'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Wordpress Link
                 </button>
