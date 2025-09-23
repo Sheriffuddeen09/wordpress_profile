@@ -3,6 +3,7 @@ import rental from './image/rental.png'
 import doctor from './image/doctor.png'
 import shortlist from './image/shortlist.png'
 import uipic from './image/ui.png'
+import image from './image/image.png'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
@@ -28,30 +29,16 @@ const MainPortfolio = () =>{
                 </div>
 
             </div>
-{/*  */}
-        <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
-                <img alt='imagepicture' src={doctor} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
-                <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>Doctor Profile website for Booking Appointment with Email OTP verification code to access date and time booking slot, with payment fee. </p><br/>
-                <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>
-                Tools: Javascript, Php and Sql</span>
-                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>           
-                <Link to={'https://doctor-sql-1.onrender.com/'}>
-                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
-                    Wordpress Link
-                </button>
-                </Link>
-                </div>
-
-            </div>
+       
             {/* Elementor */}
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={update} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>
-                website which is a Bookkeeping platform it is design as a project small business and financial record </p><br/>
+                The Sunmukhi Project for Soap is a bookkeeping platform designed to support small businesses in managing their financial records efficiently. This project focuses on helping entrepreneurs track income, expenses, and overall business performance, providing a simple and effective solution for small-scale enterprises. </p><br/>
                 <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>Tools: Javascript, Html, Css and Elementor</span>
                 <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
     
-                <Link to={'https://projectshortlist.wuaze.com/'}>
+                <Link to={'https://doctorprofile.wuaze.com/?i=3'}>
                 <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
                     Wordpress Link
                 </button>
@@ -59,6 +46,20 @@ const MainPortfolio = () =>{
                </div>
                </div>
 
+<div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
+                <img alt='imagepicture' src={image} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
+                <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>
+                website which is a future opportunity platform it is design as a project with animation and transform </p><br/>
+                <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>Tools: php, Javascript, Html, and Css </span>
+                <div className='flex-wrap sm:flex-nowrap flex gap-3 items-center mb-3 sm:mt-10'>            
+    
+                <Link to={'https://irwebsite.wuaze.com/'}>
+                <button className='hover:bg-[#dedee0] border-2 border-blue-400 p-1 mt-2 rounded-xl w-40 sm:w-40 sm:mt-0 mb-3 sm:mb-0 font-bold '>
+                    Wordpress Link
+                </button>
+                </Link>
+               </div>
+               </div>
  <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
                 <img alt='imagepicture' src={shortlist} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>SheriffProject is a slider page portfolio and carousel </p><br/>
