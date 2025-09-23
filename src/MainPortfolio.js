@@ -3,7 +3,7 @@ import rental from './image/rental.png'
 import doctor from './image/doctor.png'
 import shortlist from './image/shortlist.png'
 import uipic from './image/ui.png'
-import image from './image/image.png'
+//import image from './image/image.png'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
@@ -47,7 +47,7 @@ const MainPortfolio = () =>{
                </div>
 
 <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
-                <img alt='imagepicture' src={image} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
+                <img alt='imagepicture' src={doctor} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>
                 website which is a future opportunity platform it is design as a project with animation and transform </p><br/>
                 <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>Tools: php, Javascript, Html, and Css </span>
