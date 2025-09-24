@@ -2,7 +2,7 @@ import update from './image/update.png'
 import rental from './image/rental.png'
 import doctor from './image/doctor.png'
 import shortlist from './image/shortlist.png'
-import uipic from './image/uipic.png'
+import uipic from './image/ui.png'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
