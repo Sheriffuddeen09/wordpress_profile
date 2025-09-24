@@ -1,9 +1,8 @@
-import update from './image/update.png'
-import rental from './image/rental.png'
-import doctor from './image/doctor.png'
-import shortlist from './image/shortlist.png'
-import uipic from './image/ui.png'
-//import image from './image/image.png'
+import update from 'update.png'
+import rental from 'rental.png'
+import doctor from 'doctor.png'
+import shortlist from 'shortlist.png'
+import uipic from 'ui.png'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
