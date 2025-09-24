@@ -1,9 +1,8 @@
-import update from './image/update.png'
-import rental from './image/rental.png'
-import doctor from './image/doctor.png'
-import shortlist from './image/shortlist.png'
+import update from './image/Screenshot 2025-09-23 073140.png'
+import doctor from './image/Screenshot 2025-09-23 072125.png'
+import shortlist from './image/Screenshot 2025-07-08 064432.png'
 import uipic from './image/ui.png'
-import tumeric from './image/tumeric_powder.webp'
+import tumeric from './image/Screenshot 2025-02-01 183338.png'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
