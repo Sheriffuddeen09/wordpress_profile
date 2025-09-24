@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Link,useLocation } from "react-router-dom"
-import logo from './image/logo.png'
+import logo from './image/logoshe.png'
 
 const Head = () =>{
 
