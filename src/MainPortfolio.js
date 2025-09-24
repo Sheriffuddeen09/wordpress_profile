@@ -3,6 +3,7 @@ import rental from './image/rental.png'
 import doctor from './image/doctor.png'
 import shortlist from './image/shortlist.png'
 import uipic from './image/ui.png'
+import tumeric from './image/tumeric_powder.webp'
 import { Link } from 'react-router-dom'
 
 const MainPortfolio = () =>{
@@ -15,7 +16,7 @@ const MainPortfolio = () =>{
            
             {/*Rental Project  */}
             <div className='border-2 w-72 sm:w-96 sm:h-full sm:p-3 mb-4 border-blue-200 p-2 rounded-lg'>
-                <img alt='imagepicture' src={rental} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
+                <img alt='imagepicture' src={tumeric} className='w-72 sm:w-96 sm:h-96 h-60 rounded-xl' />
                 <p className='mt-6 font-bold bg-[#17191c] p-2 shadow-md rounded-xl'>Rental website for renting and shipment of pets to various country. access to search for pets, order, tracking and check rent transaction and more. </p><br/>
                 <span className='mt-10 text-blue-100 font-bold' style={{fontSize:'12px'}}>
                 Tools: Javascript, Php and Sql</span>
